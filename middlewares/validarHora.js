@@ -1,0 +1,1 @@
+// Módulo que contiene la lógica de validación de la hora.
